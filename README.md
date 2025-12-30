@@ -37,7 +37,7 @@ Quick-Start Guide
 9. Use Kiauh to get the MCU ID once connected to the flashed printer mainboard\
    9a. Type 4 to open advanced settings, then type 4 again for "Get MCU ID"\
    9b. Reply with your connection method\
-10. Open the default printer.cfg in your web interface and replace "<your-mcu-id>" with the output ID
+10. Open the default printer.cfg in your web interface and replace `<your-mcu-id>` with the output ID
 11. Continue to develop your printer.cfg to match your printer using parts of the example you found earlier\
     11a. I recommend finding a printer.cfg tutorial online for your printer in addition to your example\
 12. Enjoy your new klipper printer!
