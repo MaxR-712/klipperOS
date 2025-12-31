@@ -1,6 +1,4 @@
 # KlipperOS
-A live USB containing an OS with everything you need for a klipper setup on a laptop, including file persistence
-
 Welcome to the KlipperOS Live USB!
 
 I created this to simplify klipper setup and avoid having to purchase a pi.
@@ -8,8 +6,8 @@ I created this to simplify klipper setup and avoid having to purchase a pi.
 Enjoy! :)
 
 ## Download
-**All ISO and checksum (md5) files are found at sourceforge.net/projects/klipperos/files/releases/**
-
+**All ISO and checksum (md5) files are found at [sourceforge.net/projects/klipperos/files/releases/](sourceforge.net/projects/klipperos/files/releases/)**\
+(ISO files are too large to host on GitHub)
 ## 
 Some basic information:
 - You must connect to the internet
@@ -25,7 +23,7 @@ USB Requirements
 - Capacity: At least 64gb, although 128gb is recommended
 - At least 100MB/s read (high write speeds tend to come with that)
 - Good heat dispersion, since the USB will get really warm quickly
-- I used the SanDisk 128GB Ultra Flair USB 3.0 Flash Drive - SDCZ73-128G-G46 ($13.50 on Amazon)
+- I used the SanDisk 128GB Ultra Flair USB 3.0 Flash Drive - SDCZ73-128G-G46 ($16.99 on [Amazon](https://www.amazon.com/SanDisk-Ultra-Flair-128GB-Flash/dp/B015CH1PJU?th=1))
 
 Creating the USB
 
@@ -53,7 +51,7 @@ Quick-Start Guide
 6. Open the "Web Interface" shortcut, and you should see a working interface
 7. Build and flash firmware to your printer's mainboard:\
    7a. Type 4 into Kiauh to open advanced settings, then type 1 for "[Build]"\
-   7b. Find your boards example printer.cfg at bit.ly/exampleconfigs\
+   7b. Find your boards example printer.cfg at [bit.ly/exampleconfigs](bit.ly/exampleconfigs)\
    7c. In the GUI, enter the firmware flashing settings found at the top of your example\
    7d. Save and quit that menu and wait for the firmware to build\
 8. Each mainboard has its own particular way to flash, so follow one of the many tutorials online for your board
